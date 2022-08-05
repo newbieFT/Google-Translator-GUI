@@ -1,0 +1,6 @@
+tkinter
+PIL
+googletrans
+win10toast
+pyttsx3
+speech_recognition
