@@ -1,3 +1,4 @@
+# Google Translators GUI
 An application using Google Translate to translate English to Vietnamese and reverse. It's seem to be Small-Dictionary
 
 ![image](https://user-images.githubusercontent.com/85185399/183027774-3b0bc3f8-b37a-4b68-ac74-956dc17fc46b.png)
