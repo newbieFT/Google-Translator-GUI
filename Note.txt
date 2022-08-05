@@ -1,0 +1,4 @@
+- Color code
+- GUI : giao dien do hoa nguoi dung
+- pass : khi viet ham ma khong su dung
+ ex: def main(): pass
